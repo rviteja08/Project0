@@ -1,6 +1,9 @@
 Updated hello in f1 !!
+<<<<<<< HEAD
 line1
 line2
 line3
 line 4 
 line 5
+=======
+>>>>>>> e3c74c86d1855f172ccfc809b1f40f97219fbc5f
